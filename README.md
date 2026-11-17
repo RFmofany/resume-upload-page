@@ -35,6 +35,6 @@ npm run preview
 
 ## Notes
 
-- The cat illustration was exported from the design and is kept as `src/assets/resume-illustration.png`.
+- The cat illustration was exported from the design and is kept at the project root as `resume-illustration.png`.
 - Colors used: page `#f8fbf9`, primary button `#1b5aff`, secondary `#75acff`, drop zone `#f2faff` with `#4b7be5` dashed border, body text `#101828`, muted `#a3a9b5`.
 - No backend call is made; this is a front-end implementation of the screen.
